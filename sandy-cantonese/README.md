@@ -24,13 +24,13 @@ npm run preview
 
 `npm run build` 同时运行 TypeScript 检查并生成 `dist/`。`npm run preview` 可检查构建后的网页。直接刷新 `/collection`、`/search`、`/study?line=30`、`/profile` 也应能打开对应页面。
 
-## 后续通过 GitHub 部署到 Vercel
+## GitHub 与 Vercel 部署
 
-工程保存在 GitHub 的 `codex/initial-site-upload` 分支，尚未发布到 Vercel。准备上线时：
+工程已合并到 GitHub 的 `main` 分支。Vercel 项目连接该仓库，当前线上地址为 `https://sandytalk.vercel.app/`。后续更新时：
 
 1. 在仓库根目录运行 `npm run build`，确认完整工程可构建。代码放在 `sandy-cantonese/`，根目录的 `vercel.json` 负责调用它的安装和构建命令。
 2. 在 Vercel 控制台连接该 GitHub 仓库，Root Directory 保持仓库根目录。根目录配置指定 Vite 构建及 `sandy-cantonese/dist` 输出目录，无需改动 Root Directory。
-3. 由你在 Vercel 页面检查配置并手动完成首次部署。上线后检查首页、搜索结果、学习页和刷新后的深层链接。后续版本的部署触发方式，到准备上线时再确定。
+3. 更新进入 `main` 后，已连接的 Vercel 项目会自动开始构建部署；也可由你在 Vercel 控制台手动重新部署。部署完成后检查首页、搜索结果、学习页和刷新后的深层链接。
 
 后续改歌词、音频或样式时，由 AI 更新本地文件并检查；公开上线前确认歌曲音源和歌词的公开使用授权。
 
