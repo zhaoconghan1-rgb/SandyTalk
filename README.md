@@ -3,4 +3,4 @@
 
 网页工程位于 [`sandy-cantonese/`](sandy-cantonese/)，启动和构建说明见[工程 README](sandy-cantonese/README.md)。
 
-通过 GitHub 导入 Vercel 时，将 Root Directory 设为 `sandy-cantonese`。上线由项目参与者在 Vercel 手动操作。
+仓库根目录已配置 Vercel 构建；Root Directory 保持仓库根目录即可。构建命令为 `npm run build`，输出目录为 `sandy-cantonese/dist`。

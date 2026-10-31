@@ -28,8 +28,8 @@ npm run preview
 
 工程保存在 GitHub 的 `codex/initial-site-upload` 分支，尚未发布到 Vercel。准备上线时：
 
-1. 在仓库中检查工程文件，并运行 `npm run build` 确认可构建。准备好发布时，由你决定何时将上传分支合并到主分支。
-2. 在 Vercel 控制台导入该 GitHub 仓库，选择 **Vite**；构建命令为 `npm run build`，输出目录为 `dist`。如果工程放在仓库的 `sandy-cantonese/` 子目录，把 Root Directory 设为该目录。
+1. 在仓库根目录运行 `npm run build`，确认完整工程可构建。代码放在 `sandy-cantonese/`，根目录的 `vercel.json` 负责调用它的安装和构建命令。
+2. 在 Vercel 控制台连接该 GitHub 仓库，Root Directory 保持仓库根目录。根目录配置指定 Vite 构建及 `sandy-cantonese/dist` 输出目录，无需改动 Root Directory。
 3. 由你在 Vercel 页面检查配置并手动完成首次部署。上线后检查首页、搜索结果、学习页和刷新后的深层链接。后续版本的部署触发方式，到准备上线时再确定。
 
 后续改歌词、音频或样式时，由 AI 更新本地文件并检查；公开上线前确认歌曲音源和歌词的公开使用授权。

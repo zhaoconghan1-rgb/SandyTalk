@@ -1,0 +1,7 @@
+{
+  "name": "sandytalk-repository",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix sandy-cantonese run build"
+  }
+}
