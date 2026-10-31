@@ -1,0 +1,1814 @@
+[
+  {
+    "id": 1,
+    "text": "你说你只想得到一些",
+    "chars": [
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": "说",
+        "jyutping": "syut3"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": "只",
+        "jyutping": "zi2"
+      },
+      {
+        "char": "想",
+        "jyutping": "soeng2"
+      },
+      {
+        "char": "得",
+        "jyutping": "dak1"
+      },
+      {
+        "char": "到",
+        "jyutping": "dou3"
+      },
+      {
+        "char": "一",
+        "jyutping": "jat1"
+      },
+      {
+        "char": "些",
+        "jyutping": "se1"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "给你做个记念",
+    "chars": [
+      {
+        "char": "给",
+        "jyutping": "kap1"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": "做",
+        "jyutping": "zou6"
+      },
+      {
+        "char": "个",
+        "jyutping": "go3"
+      },
+      {
+        "char": "记",
+        "jyutping": "gei3"
+      },
+      {
+        "char": "念",
+        "jyutping": "nim6"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "我说但有一些破梦儿",
+    "chars": [
+      {
+        "char": "我",
+        "jyutping": "ngo5"
+      },
+      {
+        "char": "说",
+        "jyutping": "syut3"
+      },
+      {
+        "char": "但",
+        "jyutping": "daan6"
+      },
+      {
+        "char": "有",
+        "jyutping": "jau5"
+      },
+      {
+        "char": "一",
+        "jyutping": "jat1"
+      },
+      {
+        "char": "些",
+        "jyutping": "se1"
+      },
+      {
+        "char": "破",
+        "jyutping": "po3"
+      },
+      {
+        "char": "梦",
+        "jyutping": "mung6"
+      },
+      {
+        "char": "儿",
+        "jyutping": "jan4"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "不要又代重现",
+    "chars": [
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "要",
+        "jyutping": "jiu3"
+      },
+      {
+        "char": "又",
+        "jyutping": "jau6"
+      },
+      {
+        "char": "代",
+        "jyutping": "doi6"
+      },
+      {
+        "char": "重",
+        "jyutping": "cung4"
+      },
+      {
+        "char": "现",
+        "jyutping": "jin6"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "如上天 差遣这一天",
+    "chars": [
+      {
+        "char": "如",
+        "jyutping": "jyu4"
+      },
+      {
+        "char": "上",
+        "jyutping": "soeng6"
+      },
+      {
+        "char": "天",
+        "jyutping": "tin1"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "差",
+        "jyutping": "caai1"
+      },
+      {
+        "char": "遣",
+        "jyutping": "hin2"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "一",
+        "jyutping": "jat1"
+      },
+      {
+        "char": "天",
+        "jyutping": "tin1"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "只好讲句愿",
+    "chars": [
+      {
+        "char": "只",
+        "jyutping": "zi2"
+      },
+      {
+        "char": "好",
+        "jyutping": "hou2"
+      },
+      {
+        "char": "讲",
+        "jyutping": "gong2"
+      },
+      {
+        "char": "句",
+        "jyutping": "geoi3"
+      },
+      {
+        "char": "愿",
+        "jyutping": "jyun6"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "情还乱尚有一些未断",
+    "chars": [
+      {
+        "char": "情",
+        "jyutping": "cing4"
+      },
+      {
+        "char": "还",
+        "jyutping": "waan4"
+      },
+      {
+        "char": "乱",
+        "jyutping": "lyun6"
+      },
+      {
+        "char": "尚",
+        "jyutping": "soeng6"
+      },
+      {
+        "char": "有",
+        "jyutping": "jau5"
+      },
+      {
+        "char": "一",
+        "jyutping": "jat1"
+      },
+      {
+        "char": "些",
+        "jyutping": "se1"
+      },
+      {
+        "char": "未",
+        "jyutping": "mei6"
+      },
+      {
+        "char": "断",
+        "jyutping": "dyun6"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "你说我 冰冰的一双手",
+    "chars": [
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": "说",
+        "jyutping": "syut3"
+      },
+      {
+        "char": "我",
+        "jyutping": "ngo5"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "冰",
+        "jyutping": "bing1"
+      },
+      {
+        "char": "冰",
+        "jyutping": "bing1"
+      },
+      {
+        "char": "的",
+        "jyutping": "dik1"
+      },
+      {
+        "char": "一",
+        "jyutping": "jat1"
+      },
+      {
+        "char": "双",
+        "jyutping": "soeng1"
+      },
+      {
+        "char": "手",
+        "jyutping": "sau2"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "怎会暖在你笑面",
+    "chars": [
+      {
+        "char": "怎",
+        "jyutping": "zam2"
+      },
+      {
+        "char": "会",
+        "jyutping": "wui6"
+      },
+      {
+        "char": "暖",
+        "jyutping": "nyun5"
+      },
+      {
+        "char": "在",
+        "jyutping": "zoi6"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": "笑",
+        "jyutping": "siu3"
+      },
+      {
+        "char": "面",
+        "jyutping": "min6"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "我说怎麽你面前",
+    "chars": [
+      {
+        "char": "我",
+        "jyutping": "ngo5"
+      },
+      {
+        "char": "说",
+        "jyutping": "syut3"
+      },
+      {
+        "char": "怎",
+        "jyutping": "zam2"
+      },
+      {
+        "char": "麽",
+        "jyutping": "mo1"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": "面",
+        "jyutping": "min6"
+      },
+      {
+        "char": "前",
+        "jyutping": "cin4"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "一切亦熟练",
+    "chars": [
+      {
+        "char": "一",
+        "jyutping": "jat1"
+      },
+      {
+        "char": "切",
+        "jyutping": "cai3"
+      },
+      {
+        "char": "亦",
+        "jyutping": "jik6"
+      },
+      {
+        "char": "熟",
+        "jyutping": "suk6"
+      },
+      {
+        "char": "练",
+        "jyutping": "lin6"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "说不出这一刹自然",
+    "chars": [
+      {
+        "char": "说",
+        "jyutping": "syut3"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "出",
+        "jyutping": "ceot1"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "一",
+        "jyutping": "jat1"
+      },
+      {
+        "char": "刹",
+        "jyutping": "saat3"
+      },
+      {
+        "char": "自",
+        "jyutping": "zi6"
+      },
+      {
+        "char": "然",
+        "jyutping": "jin4"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "估不到这一晚缠绵",
+    "chars": [
+      {
+        "char": "估",
+        "jyutping": "gu2"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "到",
+        "jyutping": "dou3"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "一",
+        "jyutping": "jat1"
+      },
+      {
+        "char": "晚",
+        "jyutping": "maan5"
+      },
+      {
+        "char": "缠",
+        "jyutping": "cin4"
+      },
+      {
+        "char": "绵",
+        "jyutping": "min4"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "来得这麽温暖",
+    "chars": [
+      {
+        "char": "来",
+        "jyutping": "loi4"
+      },
+      {
+        "char": "得",
+        "jyutping": "dak1"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "麽",
+        "jyutping": "mo1"
+      },
+      {
+        "char": "温",
+        "jyutping": "wan1"
+      },
+      {
+        "char": "暖",
+        "jyutping": "nyun5"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "没有你 还是爱你",
+    "chars": [
+      {
+        "char": "没",
+        "jyutping": "mut6"
+      },
+      {
+        "char": "有",
+        "jyutping": "jau5"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "还",
+        "jyutping": "waan4"
+      },
+      {
+        "char": "是",
+        "jyutping": "si6"
+      },
+      {
+        "char": "爱",
+        "jyutping": "oi3"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "同在这里再呼吸这空气",
+    "chars": [
+      {
+        "char": "同",
+        "jyutping": "tung4"
+      },
+      {
+        "char": "在",
+        "jyutping": "zoi6"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze2"
+      },
+      {
+        "char": "里",
+        "jyutping": "leoi5"
+      },
+      {
+        "char": "再",
+        "jyutping": "zoi3"
+      },
+      {
+        "char": "呼",
+        "jyutping": "fu1"
+      },
+      {
+        "char": "吸",
+        "jyutping": "kap1"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "空",
+        "jyutping": "hung1"
+      },
+      {
+        "char": "气",
+        "jyutping": "hei3"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "舍不得不一起",
+    "chars": [
+      {
+        "char": "舍",
+        "jyutping": "se3"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "得",
+        "jyutping": "dak1"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "一",
+        "jyutping": "jat1"
+      },
+      {
+        "char": "起",
+        "jyutping": "hei2"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "没有你 还是爱你",
+    "chars": [
+      {
+        "char": "没",
+        "jyutping": "mut6"
+      },
+      {
+        "char": "有",
+        "jyutping": "jau5"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "还",
+        "jyutping": "waan4"
+      },
+      {
+        "char": "是",
+        "jyutping": "si6"
+      },
+      {
+        "char": "爱",
+        "jyutping": "oi3"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "从未爱你爱得这么凄美",
+    "chars": [
+      {
+        "char": "从",
+        "jyutping": "cung4"
+      },
+      {
+        "char": "未",
+        "jyutping": "mei6"
+      },
+      {
+        "char": "爱",
+        "jyutping": "oi3"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": "爱",
+        "jyutping": "oi3"
+      },
+      {
+        "char": "得",
+        "jyutping": "dak1"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze2"
+      },
+      {
+        "char": "么",
+        "jyutping": "mo1"
+      },
+      {
+        "char": "凄",
+        "jyutping": "cai1"
+      },
+      {
+        "char": "美",
+        "jyutping": "mei5"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "又抱紧 又抱紧(你)",
+    "chars": [
+      {
+        "char": "又",
+        "jyutping": "jau6"
+      },
+      {
+        "char": "抱",
+        "jyutping": "pou5"
+      },
+      {
+        "char": "紧",
+        "jyutping": "gan2"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "又",
+        "jyutping": "jau6"
+      },
+      {
+        "char": "抱",
+        "jyutping": "pou5"
+      },
+      {
+        "char": "紧",
+        "jyutping": "gan2"
+      },
+      {
+        "char": "(",
+        "jyutping": ""
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": ")",
+        "jyutping": ""
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "你说你 可不可於身边",
+    "chars": [
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": "说",
+        "jyutping": "syut3"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "可",
+        "jyutping": "ho2"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "可",
+        "jyutping": "ho2"
+      },
+      {
+        "char": "於",
+        "jyutping": "jyu1"
+      },
+      {
+        "char": "身",
+        "jyutping": "san1"
+      },
+      {
+        "char": "边",
+        "jyutping": "bin1"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "跟我抱着再夜眠",
+    "chars": [
+      {
+        "char": "跟",
+        "jyutping": "gan1"
+      },
+      {
+        "char": "我",
+        "jyutping": "ngo5"
+      },
+      {
+        "char": "抱",
+        "jyutping": "pou5"
+      },
+      {
+        "char": "着",
+        "jyutping": "zoek6"
+      },
+      {
+        "char": "再",
+        "jyutping": "zoi3"
+      },
+      {
+        "char": "夜",
+        "jyutping": "je6"
+      },
+      {
+        "char": "眠",
+        "jyutping": "min4"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "我怕是 开心眼泪儿",
+    "chars": [
+      {
+        "char": "我",
+        "jyutping": "ngo5"
+      },
+      {
+        "char": "怕",
+        "jyutping": "paa3"
+      },
+      {
+        "char": "是",
+        "jyutping": "si6"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "开",
+        "jyutping": "hoi1"
+      },
+      {
+        "char": "心",
+        "jyutping": "sam1"
+      },
+      {
+        "char": "眼",
+        "jyutping": "ngaan5"
+      },
+      {
+        "char": "泪",
+        "jyutping": "leoi6"
+      },
+      {
+        "char": "儿",
+        "jyutping": "jan4"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "不懂得遮掩",
+    "chars": [
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "懂",
+        "jyutping": "dung2"
+      },
+      {
+        "char": "得",
+        "jyutping": "dak1"
+      },
+      {
+        "char": "遮",
+        "jyutping": "ze1"
+      },
+      {
+        "char": "掩",
+        "jyutping": "jim2"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "笑不出这一刹情迷",
+    "chars": [
+      {
+        "char": "笑",
+        "jyutping": "siu3"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "出",
+        "jyutping": "ceot1"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "一",
+        "jyutping": "jat1"
+      },
+      {
+        "char": "刹",
+        "jyutping": "saat3"
+      },
+      {
+        "char": "情",
+        "jyutping": "cing4"
+      },
+      {
+        "char": "迷",
+        "jyutping": "mai4"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "讲不出这一晚意乱",
+    "chars": [
+      {
+        "char": "讲",
+        "jyutping": "gong2"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "出",
+        "jyutping": "ceot1"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "一",
+        "jyutping": "jat1"
+      },
+      {
+        "char": "晚",
+        "jyutping": "maan5"
+      },
+      {
+        "char": "意",
+        "jyutping": "ji3"
+      },
+      {
+        "char": "乱",
+        "jyutping": "lyun6"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "明天偏偏不远",
+    "chars": [
+      {
+        "char": "明",
+        "jyutping": "ming4"
+      },
+      {
+        "char": "天",
+        "jyutping": "tin1"
+      },
+      {
+        "char": "偏",
+        "jyutping": "pin1"
+      },
+      {
+        "char": "偏",
+        "jyutping": "pin1"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "远",
+        "jyutping": "jyun5"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "没有你 还是爱你",
+    "chars": [
+      {
+        "char": "没",
+        "jyutping": "mut6"
+      },
+      {
+        "char": "有",
+        "jyutping": "jau5"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "还",
+        "jyutping": "waan4"
+      },
+      {
+        "char": "是",
+        "jyutping": "si6"
+      },
+      {
+        "char": "爱",
+        "jyutping": "oi3"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "同在这里再呼吸这空气",
+    "chars": [
+      {
+        "char": "同",
+        "jyutping": "tung4"
+      },
+      {
+        "char": "在",
+        "jyutping": "zoi6"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze2"
+      },
+      {
+        "char": "里",
+        "jyutping": "leoi5"
+      },
+      {
+        "char": "再",
+        "jyutping": "zoi3"
+      },
+      {
+        "char": "呼",
+        "jyutping": "fu1"
+      },
+      {
+        "char": "吸",
+        "jyutping": "kap1"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "空",
+        "jyutping": "hung1"
+      },
+      {
+        "char": "气",
+        "jyutping": "hei3"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "经不起这惊喜",
+    "chars": [
+      {
+        "char": "经",
+        "jyutping": "ging1"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "起",
+        "jyutping": "hei2"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "惊",
+        "jyutping": "ging1"
+      },
+      {
+        "char": "喜",
+        "jyutping": "hei2"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "没有你 还是爱你",
+    "chars": [
+      {
+        "char": "没",
+        "jyutping": "mut6"
+      },
+      {
+        "char": "有",
+        "jyutping": "jau5"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "还",
+        "jyutping": "waan4"
+      },
+      {
+        "char": "是",
+        "jyutping": "si6"
+      },
+      {
+        "char": "爱",
+        "jyutping": "oi3"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "从未信我再舍不得舍弃",
+    "chars": [
+      {
+        "char": "从",
+        "jyutping": "cung4"
+      },
+      {
+        "char": "未",
+        "jyutping": "mei6"
+      },
+      {
+        "char": "信",
+        "jyutping": "seon3"
+      },
+      {
+        "char": "我",
+        "jyutping": "ngo5"
+      },
+      {
+        "char": "再",
+        "jyutping": "zoi3"
+      },
+      {
+        "char": "舍",
+        "jyutping": "se3"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "得",
+        "jyutping": "dak1"
+      },
+      {
+        "char": "舍",
+        "jyutping": "se3"
+      },
+      {
+        "char": "弃",
+        "jyutping": "hei3"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "又抱紧 又抱紧你",
+    "chars": [
+      {
+        "char": "又",
+        "jyutping": "jau6"
+      },
+      {
+        "char": "抱",
+        "jyutping": "pou5"
+      },
+      {
+        "char": "紧",
+        "jyutping": "gan2"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "又",
+        "jyutping": "jau6"
+      },
+      {
+        "char": "抱",
+        "jyutping": "pou5"
+      },
+      {
+        "char": "紧",
+        "jyutping": "gan2"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "笑不出这一刹情迷",
+    "chars": [
+      {
+        "char": "笑",
+        "jyutping": "siu3"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "出",
+        "jyutping": "ceot1"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "一",
+        "jyutping": "jat1"
+      },
+      {
+        "char": "刹",
+        "jyutping": "saat3"
+      },
+      {
+        "char": "情",
+        "jyutping": "cing4"
+      },
+      {
+        "char": "迷",
+        "jyutping": "mai4"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "讲不出这一晚意乱",
+    "chars": [
+      {
+        "char": "讲",
+        "jyutping": "gong2"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "出",
+        "jyutping": "ceot1"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "一",
+        "jyutping": "jat1"
+      },
+      {
+        "char": "晚",
+        "jyutping": "maan5"
+      },
+      {
+        "char": "意",
+        "jyutping": "ji3"
+      },
+      {
+        "char": "乱",
+        "jyutping": "lyun6"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "明天偏偏不远",
+    "chars": [
+      {
+        "char": "明",
+        "jyutping": "ming4"
+      },
+      {
+        "char": "天",
+        "jyutping": "tin1"
+      },
+      {
+        "char": "偏",
+        "jyutping": "pin1"
+      },
+      {
+        "char": "偏",
+        "jyutping": "pin1"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "远",
+        "jyutping": "jyun5"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "没有你 还是爱你",
+    "chars": [
+      {
+        "char": "没",
+        "jyutping": "mut6"
+      },
+      {
+        "char": "有",
+        "jyutping": "jau5"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "还",
+        "jyutping": "waan4"
+      },
+      {
+        "char": "是",
+        "jyutping": "si6"
+      },
+      {
+        "char": "爱",
+        "jyutping": "oi3"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "同在这里再呼吸这空气",
+    "chars": [
+      {
+        "char": "同",
+        "jyutping": "tung4"
+      },
+      {
+        "char": "在",
+        "jyutping": "zoi6"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze2"
+      },
+      {
+        "char": "里",
+        "jyutping": "leoi5"
+      },
+      {
+        "char": "再",
+        "jyutping": "zoi3"
+      },
+      {
+        "char": "呼",
+        "jyutping": "fu1"
+      },
+      {
+        "char": "吸",
+        "jyutping": "kap1"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "空",
+        "jyutping": "hung1"
+      },
+      {
+        "char": "气",
+        "jyutping": "hei3"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "不舍不得不一起",
+    "chars": [
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "舍",
+        "jyutping": "se3"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "得",
+        "jyutping": "dak1"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "一",
+        "jyutping": "jat1"
+      },
+      {
+        "char": "起",
+        "jyutping": "hei2"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "没有你 还是爱你",
+    "chars": [
+      {
+        "char": "没",
+        "jyutping": "mut6"
+      },
+      {
+        "char": "有",
+        "jyutping": "jau5"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "还",
+        "jyutping": "waan4"
+      },
+      {
+        "char": "是",
+        "jyutping": "si6"
+      },
+      {
+        "char": "爱",
+        "jyutping": "oi3"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "从未爱你爱得这麽凄美",
+    "chars": [
+      {
+        "char": "从",
+        "jyutping": "cung4"
+      },
+      {
+        "char": "未",
+        "jyutping": "mei6"
+      },
+      {
+        "char": "爱",
+        "jyutping": "oi3"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": "爱",
+        "jyutping": "oi3"
+      },
+      {
+        "char": "得",
+        "jyutping": "dak1"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "麽",
+        "jyutping": "mo1"
+      },
+      {
+        "char": "凄",
+        "jyutping": "cai1"
+      },
+      {
+        "char": "美",
+        "jyutping": "mei5"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "又抱紧 又抱紧你",
+    "chars": [
+      {
+        "char": "又",
+        "jyutping": "jau6"
+      },
+      {
+        "char": "抱",
+        "jyutping": "pou5"
+      },
+      {
+        "char": "紧",
+        "jyutping": "gan2"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "又",
+        "jyutping": "jau6"
+      },
+      {
+        "char": "抱",
+        "jyutping": "pou5"
+      },
+      {
+        "char": "紧",
+        "jyutping": "gan2"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "没有你 还是爱你",
+    "chars": [
+      {
+        "char": "没",
+        "jyutping": "mut6"
+      },
+      {
+        "char": "有",
+        "jyutping": "jau5"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "还",
+        "jyutping": "waan4"
+      },
+      {
+        "char": "是",
+        "jyutping": "si6"
+      },
+      {
+        "char": "爱",
+        "jyutping": "oi3"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "text": "同在这里再呼吸这空气",
+    "chars": [
+      {
+        "char": "同",
+        "jyutping": "tung4"
+      },
+      {
+        "char": "在",
+        "jyutping": "zoi6"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze2"
+      },
+      {
+        "char": "里",
+        "jyutping": "leoi5"
+      },
+      {
+        "char": "再",
+        "jyutping": "zoi3"
+      },
+      {
+        "char": "呼",
+        "jyutping": "fu1"
+      },
+      {
+        "char": "吸",
+        "jyutping": "kap1"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "空",
+        "jyutping": "hung1"
+      },
+      {
+        "char": "气",
+        "jyutping": "hei3"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "text": "经不起这惊喜",
+    "chars": [
+      {
+        "char": "经",
+        "jyutping": "ging1"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "起",
+        "jyutping": "hei2"
+      },
+      {
+        "char": "这",
+        "jyutping": "ze5"
+      },
+      {
+        "char": "惊",
+        "jyutping": "ging1"
+      },
+      {
+        "char": "喜",
+        "jyutping": "hei2"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "text": "没有你还是爱你",
+    "chars": [
+      {
+        "char": "没",
+        "jyutping": "mut6"
+      },
+      {
+        "char": "有",
+        "jyutping": "jau5"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      },
+      {
+        "char": "还",
+        "jyutping": "waan4"
+      },
+      {
+        "char": "是",
+        "jyutping": "si6"
+      },
+      {
+        "char": "爱",
+        "jyutping": "oi3"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "text": "从未信我再舍不得舍弃",
+    "chars": [
+      {
+        "char": "从",
+        "jyutping": "cung4"
+      },
+      {
+        "char": "未",
+        "jyutping": "mei6"
+      },
+      {
+        "char": "信",
+        "jyutping": "seon3"
+      },
+      {
+        "char": "我",
+        "jyutping": "ngo5"
+      },
+      {
+        "char": "再",
+        "jyutping": "zoi3"
+      },
+      {
+        "char": "舍",
+        "jyutping": "se3"
+      },
+      {
+        "char": "不",
+        "jyutping": "bat1"
+      },
+      {
+        "char": "得",
+        "jyutping": "dak1"
+      },
+      {
+        "char": "舍",
+        "jyutping": "se3"
+      },
+      {
+        "char": "弃",
+        "jyutping": "hei3"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "text": "又抱紧 又抱紧你",
+    "chars": [
+      {
+        "char": "又",
+        "jyutping": "jau6"
+      },
+      {
+        "char": "抱",
+        "jyutping": "pou5"
+      },
+      {
+        "char": "紧",
+        "jyutping": "gan2"
+      },
+      {
+        "char": " ",
+        "jyutping": ""
+      },
+      {
+        "char": "又",
+        "jyutping": "jau6"
+      },
+      {
+        "char": "抱",
+        "jyutping": "pou5"
+      },
+      {
+        "char": "紧",
+        "jyutping": "gan2"
+      },
+      {
+        "char": "你",
+        "jyutping": "nei5"
+      }
+    ]
+  }
+]

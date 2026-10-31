@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+vercel-upload.zip
+preview-*.jpg
+*.tsbuildinfo
+.vercel/
+.env*
